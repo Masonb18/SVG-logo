@@ -32,3 +32,18 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 The following image shows a mock-up of the generated SVG given the following input entered by the user: `SVG` for the text, `white` for the text color, `circle` from the list of shapes, and `green` for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
 
 ![Image showing a green circle with white text that reads "SVG.".](./Images/10-oop-homework-demo.png)
+
+## Contributions
+
+Mason Bauer
+
+## Links
+
+Username: Masonb18 reop link: https://github.com/Masonb18/SVG-logo.git
+https://drive.google.com/file/d/1gPd51xkvclRI0RKHCRTM7Nh-J33jDbOv/view
+
+## Tests
+
+## Questions
+
+If you have any questions you can reach out to me via Github or my email: bauer.mason01@gmail.com
