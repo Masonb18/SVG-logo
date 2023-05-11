@@ -36,6 +36,7 @@ The following image shows a mock-up of the generated SVG given the following inp
 ## Contributions
 
 Mason Bauer
+help from Chris B, in a tutor session 
 
 ## Links
 
